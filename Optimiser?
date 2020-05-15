@@ -1,0 +1,14 @@
+def optimise(sample_size,div,forecast):
+    if sample_size>10:
+        return 'Optimise'
+    
+    if div==1:
+        return 0.5*forecast
+    elif div==2:
+        return 0.6*forecast
+    elif div==3:
+        return 0.8*forecast
+    else:
+        return 
+
+optimise(9,3,100)
