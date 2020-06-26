@@ -22,17 +22,6 @@ else:
     print(f" stock level= {netstock}, but {transit} on the way, do not order")
 
 
-# In[45]:
-
-
-num=100
-root=2
-squareroot=(num)**(1/root)
-sol=1
-dp=50
-
-print(f" The {dp} decimal point solution for the square root of {num!s} is : {squareroot:{sol}.{dp+3}}")
-
 
 # In[87]:
 
