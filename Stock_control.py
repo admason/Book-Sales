@@ -1,40 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[36]:
-
-
-a=6
-b=8
-if a>b:
-    a = a+2
-    b = b+2
-    print('The larger vale is a=', a)
-else:
-    a = a+2
-    b = b+2
-    print('The larger value is b=',b)
-
-
-# In[38]:
-
-
-if True:
-    print("It's true")
-
-
-# In[40]:
-
-
-x=True
-
-if x:
-    print('x was true')
-else:
-##    print('x not true')
-
-
-# In[118]:
 
 
 ## Stock analysis:
@@ -90,49 +56,7 @@ else:
     print(f" {net} in stock, do not order")
 
 
-# In[ ]:
 
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
